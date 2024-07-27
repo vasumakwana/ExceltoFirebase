@@ -59,8 +59,8 @@ This Python project provides integration to eliminate the need for manual data e
 
 
 ## 📺 Demo
-[cd Screenshots/1.png]
-[cd Screenshots/2.png]
+![Home Page](/Screenshots/1.png?raw=true "Home Page")
+![Upload](/Screenshots/2.png?raw=true "Upload")
 
 
 
